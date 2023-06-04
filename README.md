@@ -9,7 +9,7 @@ _Run the following command to generate the baseline-prof.txt file._
 The generated file will be found under `build` package of `baselineprofile` module. 
 Go to outputs then to `connected_android_test_additional_output` folder and look for the device used on tests.
 
-_Run the following command to measusure the application startup metrics_
+_Run the following command to collect application startup and journeys metrics_
 
 `./gradlew :baselineprofile:connectedAndroidTest -Pandroid.testInstrumentationRunnerArguments.androidx.benchmark.enabledRules=Macrobenchmark`
 
