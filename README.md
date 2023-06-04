@@ -15,6 +15,7 @@ Run the following command to measusure the application startup metrics
 
 
 **Results:**
-![image](https://github.com/samuel8mille/BaselineProfileApplication/assets/13340536/2b626954-0464-4e29-b211-18739a5e38a3)
+![image](https://github.com/samuel8mille/BaselineProfileApplication/assets/13340536/f6167f71-8258-4692-95c6-347dd66522f0)
+
 
 
