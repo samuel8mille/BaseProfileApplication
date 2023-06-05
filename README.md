@@ -3,7 +3,7 @@
 **Application to test `baselineprofile` library under a clean install**
 
 
-![img_6.png](img_6.png)
+![img_7.png](img_7.png)
 
 
 **Guide**
