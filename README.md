@@ -1,6 +1,8 @@
 # BaselineProfileApplication
 
-**Application to test baseline profile library**
+**Application to test baseline profile library under a clean install**
+
+**Guide**
 
 _Run the following command to generate the baseline-prof.txt file._
 
