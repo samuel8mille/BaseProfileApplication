@@ -33,7 +33,7 @@ _Run the following command to collect application startup and journeys metrics._
 ![img_4.png](img_4.png)
 
 
-**Results:**
+**Results running Baseline Profile on this app:**
 ![image](https://github.com/samuel8mille/BaselineProfileApplication/assets/13340536/f6167f71-8258-4692-95c6-347dd66522f0)
 
 
