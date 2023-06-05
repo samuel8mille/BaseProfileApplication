@@ -35,7 +35,12 @@ _Run the following command to collect application startup and journeys metrics_
 ![img_3.png](img_3.png)
 
 
+**Results:**
+![image](https://github.com/samuel8mille/BaselineProfileApplication/assets/13340536/f6167f71-8258-4692-95c6-347dd66522f0)
+
+
 **Success cases of Baseline Profile use**
+
 https://developer.android.com/stories/apps/tiktok
 https://developer.android.com/stories/apps/lyft
 https://developer.android.com/stories/apps/zomato
@@ -43,11 +48,9 @@ https://developer.android.com/stories/apps/josh
 
 
 **Baseline Profile documentation**
+
 https://developer.android.com/topic/performance/baselineprofiles/overview
 
-
-**Results:**
-![image](https://github.com/samuel8mille/BaselineProfileApplication/assets/13340536/f6167f71-8258-4692-95c6-347dd66522f0)
 
 
 
