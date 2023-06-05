@@ -30,7 +30,7 @@ _Run the following command to collect application startup and journeys metrics._
 
 
 **Compilation behavior across Android Versions**
-![img_4.png](img_4.png)![img_3.png](img_3.png)
+![img_4.png](img_4.png)
 
 
 **Results:**
