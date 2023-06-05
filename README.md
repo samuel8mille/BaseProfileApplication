@@ -1,6 +1,6 @@
 # BaselineProfileApplication
 
-**Application to test `baselineprofile` library under a clean install**
+**Application to test `baselineprofile` library under a clean library install**
 
 
 ![img_7.png](img_7.png)
