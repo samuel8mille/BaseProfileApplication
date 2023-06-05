@@ -1,6 +1,6 @@
 # BaselineProfileApplication
 
-**Application to test baseline profile library under a clean install**
+**Application to test `baselineprofile` library under a clean install**
 
 **Guide**
 
@@ -11,7 +11,7 @@ _Run the following command to generate the baseline-prof.txt file._
 The generated file will be found under `build` package of `baselineprofile` module. 
 Go to outputs then to `connected_android_test_additional_output` folder and look for the device used on tests.
 
-_Run the following command to collect application startup and journeys metrics_
+_Run the following command to collect application startup and journeys metrics._
 
 `./gradlew :baselineprofile:connectedAndroidTest -Pandroid.testInstrumentationRunnerArguments.androidx.benchmark.enabledRules=Macrobenchmark`
 
@@ -22,7 +22,7 @@ _Run the following command to collect application startup and journeys metrics_
 - BaselineProfile needs his own module, like `macrobenchmark`.
 - Using alpha versions of `baselineprofile` library allows run baseline generating tasks without rooted physical devices.
 - Maybe it's necessary upgrade gradle to 8.0.0 or above versions.
-- BaselineProfile library already contains `macrobenchmark` jetpack library. The opposite is not valid.
+- BaselineProfile library already contains `macrobenchmark` jetpack library. The opposite is not true.
 
 
 **How the Baseline Profile works**
