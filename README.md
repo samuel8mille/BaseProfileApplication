@@ -25,10 +25,6 @@ _Run the following command to collect application startup and journeys metrics._
 - BaselineProfile library already contains `macrobenchmark` jetpack library. The opposite is not true.
 
 
-**How the Baseline Profile works**
-![img_1.png](img_1.png)
-
-
 **Recommended libraries versions**
 ![img_2.png](img_2.png)
 
