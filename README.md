@@ -2,6 +2,10 @@
 
 **Application to test `baselineprofile` library under a clean install**
 
+
+![img_6.png](img_6.png)
+
+
 **Guide**
 
 _Run the following command to generate the baseline-prof.txt file._
