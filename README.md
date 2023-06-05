@@ -13,7 +13,8 @@ _Run the following command to generate the `baseline-prof.txt` file._
 `./gradlew :app:generateReleaseBaselineProfile -Pandroid.testInstrumentationRunnerArguments.androidx.benchmark.enabledRules=BaselineProfile`
 
 The generated file will be found under `build` package of `baselineprofile` module. 
-Go to outputs then to `connected_android_test_additional_output` folder and look for the device used on tests.
+Go to outputs then to `connected_android_test_additional_output` folder and look for the device used on tests. It's the one ending
+with `prof.txt`.
 Put this file inside main `app` package with Android Manifest and rename it to `baseline-prof.txt`.
 
 
